@@ -5,7 +5,7 @@ My name is Tessa and I'm a Software Engineering student at [Codam](https://www.c
 
 Here you'll find the projects I completed at Codam, which are written in:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DelicaTessa&layout=compact)](https://github.com/DelicaTessa/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DelicaTessa&layout=compact&hide=roff,swift)](https://github.com/DelicaTessa/github-readme-stats)
 
 If you have any questions or feedback, don't hesitate to reach out.📫
 
