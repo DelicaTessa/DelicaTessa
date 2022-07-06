@@ -9,4 +9,4 @@ Here you'll find the projects I completed at Codam, which are written in:
 
 If you have any questions or feedback, don't hesitate to reach out.📫
 
-<a href= "https://www.linkedin.com/in/tessaclement/"><img align=center src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>  <a href="mailto:tclement@student.codam.nl"><img align=center src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" /></a> 
+<a href= "https://www.linkedin.com/in/tessa-clement/"><img align=center src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>  <a href="mailto:tclement@student.codam.nl"><img align=center src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" /></a> 
