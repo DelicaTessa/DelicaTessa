@@ -7,6 +7,6 @@ Here you'll find the projects I completed at Codam, which are written in:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DelicaTessa&layout=compact&hide=roff,swift)](https://github.com/DelicaTessa/github-readme-stats)
 
-If you have any questions or feedback, don't hesitate to reach out.📫
+If you have any questions or feedback, don't hesitate to reach out📫
 
 <a href= "https://www.linkedin.com/in/tessa-clement/"><img align=center src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>  <a href="mailto:tclement@student.codam.nl"><img align=center src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" /></a> 
