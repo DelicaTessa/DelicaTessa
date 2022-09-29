@@ -1,6 +1,6 @@
 ### Hello world! 🌏
 
-My name is Tessa and I'm a Software Engineering student at [Codam](https://www.codam.nl/en/about-codam) (part of the [42 Network](https://en.wikipedia.org/wiki/42_(school))). Before entering the wonderful world of tech, I went to law school and worked as a legal advisor👩‍⚖️. Learning how to code has given me the thrill and challenge of learning and discovering that I was lacking in my previous occupations. It is the gift that keeps on giving!🎁
+My name is Tessa and I'm a Software Engineering student at [Codam](https://www.codam.nl/en/about-codam) (part of the [42 Network](https://en.wikipedia.org/wiki/42_(school))). Before entering the wonderful world of tech, I went to law school and worked as a legal advisor👩‍⚖️. Learning how to code has given me the thrill and challenge of learning and puzzle-solving that I was lacking in my previous occupations. It is the gift that keeps on giving!🎁
 
 
 Here you'll find the projects I completed at Codam, which are written in:
